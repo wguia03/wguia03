@@ -1,16 +1,28 @@
-### Hi there 👋
+### Info 👋
 
-<!--
-**wguia03/wguia03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software en la UNMSM cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es consolidar y aprender nuevas herramientas relacionadas al desarrollo backend, tales como Docker, microservicios, Spring Cloud y Cloud Computing.
 
-Here are some ideas to get you started:
+### Aptitudes
+- Java
+- Spring Framework
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Spring Security
+- JWT
+- JavaScript
+- Node.js
+- Express.js
+- PHP
+- MySQL
+- PostgreSQL
+- MongoDB
+- Docker
+- Swagger
+- Inglés B1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft Skills
+- Responsabilidad
+- Trabajo en equipo
+- Comunicación efectiva
+- Adaptabilidad

@@ -1,6 +1,6 @@
 ### Info 👋
 
-Hola! Soy un estudiante de Ingeniería de Software cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es consolidar y aprender nuevas herramientas relacionadas al desarrollo backend, tales como Docker, microservicios, Spring Cloud y Cloud Computing.
+Hola! Soy un estudiante de Ingeniería de Software cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es consolidar mis conocimientos en un entorno práctico y aprender nuevas cosas relacionadas al desarrollo backend, tales como la arquitectura orientada a microservicios, Spring Cloud y Cloud Computing.
 
 ### Aptitudes 📖
 - Java

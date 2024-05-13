@@ -11,7 +11,7 @@ Estudiante de Ingeniería de Software cursando los dos últimos años de la carr
 
 - 👨‍💼 LinkedIn: https://www.linkedin.com/in/willgm03/
 
-### Aptitudes 📖
+### Aptitudes
 - Java
 - Spring Framework
 - Spring Boot

@@ -1,28 +1,31 @@
-### Info 👋
+<h2 align="center">¡Hola! Soy Wilfredo Guia Muñoz 👋 </h1>
+<h3 align="center"> Java Developer | Spring Boot | MySQL </h3>
 
-Hola! Soy un estudiante de Ingeniería de Software cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es aplicar mis conocimientos en un entorno práctico y aprender nuevas cosas relacionadas al desarrollo backend, tales como la arquitectura orientada a microservicios, Spring Cloud y Cloud Computing.
+Estudiante de Ingeniería de Software cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es aplicar mis conocimientos en un entorno práctico y aprender nuevos conceptos relacionadas al desarrollo backend.
+
+- 🔭 Trabajando en [GM Ecommerce API](https://github.com/wguia03/gm-ecommerce-api)
+
+- 🌱 Aprendiendo **Docker, microservicios y Spring Cloud**
+
+- 📫 Gmail: willgm.2003@gmail.com
+
+- 👨‍💼 Linkedin: https://www.linkedin.com/in/willgm03/
 
 ### Aptitudes 📖
 - Java
 - Spring Framework
 - Spring Boot
 - Spring Data JPA
-- Hibernate
 - Spring Security
 - JWT
 - JavaScript
-- Node.js
-- Express.js
 - PHP
 - MySQL
 - PostgreSQL
 - MongoDB
 - Docker
 - Swagger
+- Linux
 - Inglés B1
 
-### Soft Skills 🤝
-- Responsabilidad
-- Trabajo en equipo
-- Comunicación efectiva
-- Adaptabilidad
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wguia03&show_icons=true&locale=en&layout=compact" alt="wguia03" /></p>

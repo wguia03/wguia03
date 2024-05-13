@@ -1,5 +1,5 @@
 <h2 align="center">¡Hola! Soy Wilfredo Guia Muñoz 👋 </h1>
-<h3 align="center"> Java Developer | Spring Boot | MySQL </h3>
+<h3 align="center"> Backend Developer </h3>
 
 Estudiante de Ingeniería de Software cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es aplicar mis conocimientos en un entorno práctico y aprender nuevos conceptos relacionadas al desarrollo backend.
 
@@ -7,9 +7,9 @@ Estudiante de Ingeniería de Software cursando los dos últimos años de la carr
 
 - 🌱 Aprendiendo **Docker, microservicios y Spring Cloud**
 
-- 📫 Gmail: willgm.2003@gmail.com
+- 📫 Correo: willgm.2003@gmail.com
 
-- 👨‍💼 Linkedin: https://www.linkedin.com/in/willgm03/
+- 👨‍💼 LinkedIn: https://www.linkedin.com/in/willgm03/
 
 ### Aptitudes 📖
 - Java

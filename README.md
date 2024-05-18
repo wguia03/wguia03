@@ -3,9 +3,9 @@
 
 Estudiante de Ingeniería de Software cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es aplicar mis conocimientos en un entorno práctico y aprender nuevos conceptos relacionados al desarrollo backend.
 
-- 🔭 Trabajando en [GM Ecommerce API](https://github.com/wguia03/gm-ecommerce-api)
+<!-- - 🔭 Trabajando en [GM Ecommerce API](https://github.com/wguia03/gm-ecommerce-api)-->
 
-- 🌱 Aprendiendo **Docker, microservicios y Spring Cloud**
+- 🌱 Aprendiendo **Microservicios, Spring WebFlux y Apache Kafka**
 
 - 📫 Correo: willgm.2003@gmail.com
 
@@ -15,6 +15,7 @@ Estudiante de Ingeniería de Software cursando los dos últimos años de la carr
 - Java
 - Spring Framework
 - Spring Boot
+- Spring Web
 - Spring Data JPA
 - Spring Security
 - JWT

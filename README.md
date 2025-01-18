@@ -1,7 +1,7 @@
 <h2 align="center">¡Hola! Soy Wilfredo Guia Muñoz 👋 </h1>
 <h3 align="center"> Backend Developer | Java | Spring Boot </h3>
 
-Estudiante de Ingeniería de Software cursando los dos últimos años de la carrera. Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales. Sin embargo, tengo conocimientos en otros lenguajes de programación como JavaScript y PHP. Mi objetivo actual es desempeñarme en un puesto como desarrollador backend y aprender nuevos conceptos relacionados a este campo.
+Me dedico al desarrollo backend usando Java y el ecosistema de Spring como herramientas principales.
 
 <!-- - 🔭 Trabajando en [GM Ecommerce API](https://github.com/wguia03/gm-ecommerce-api)-->
 
